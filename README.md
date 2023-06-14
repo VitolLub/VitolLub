@@ -19,7 +19,7 @@
     <a href="https://www.upwork.com/freelancers/~01162d71d3d5eba4d4" rel="nofollow">
         <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork" style="max-width: 100%;">
     </a>
-    <a href="https://www.upwork.com/freelancers/~01162d71d3d5eba4d4" rel="nofollow">
+    <a href="https://t.me/vitolubomir" rel="nofollow">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="max-width: 100%;">
     </a>
    
