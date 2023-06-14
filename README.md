@@ -7,13 +7,17 @@
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/vitollubomir" rel="nofollow">
-        <img src="https://camo.githubusercontent.com/8fdc1cc04c29ee0548aa86f0c3d3ca9b4e1736b51e60dbf94baf4f8aa37f411a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&amp;logo=linkedin" style="max-width: 100%;">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="max-width: 100%;">
     </a>
-    <a href="https://www.linkedin.com/in/vitollubomir" rel="nofollow">
-        <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverwlow" data-canonical-src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&amp;logo=linkedin" style="max-width: 100%;">
+    <a href="https://stackoverflow.com/users/17175330/lubomir" rel="nofollow">
+        <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverwlow" 
+           style="max-width: 100%;">
     </a>
-    <a href="https://www.linkedin.com/in/vitollubomir" rel="nofollow">
-        <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank" data-canonical-src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&amp;logo=linkedin" style="max-width: 100%;">
+    <a href="https://www.hackerrank.com/vitollub?hr_r=1" rel="nofollow">
+        <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank"  style="max-width: 100%;">
+    </a>
+    <a href="https://www.upwork.com/freelancers/~01162d71d3d5eba4d4" rel="nofollow">
+        <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork" style="max-width: 100%;">
     </a>
    
 </p>
