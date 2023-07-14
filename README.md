@@ -44,6 +44,6 @@
 <a href="https://github.com/wervlad"><img src="https://camo.githubusercontent.com/7db5976e41b787c96bf18219124761b6f6ab93e8cda559c4b06ce7099ad3513b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d57696e646f7773" alt="Windows" data-canonical-src="https://img.shields.io/badge/Windows-black?style=for-the-badge&amp;logo=Windows" style="max-width: 100%;"></a>
 <a href="https://github.com/wervlad"> 
 
-<img src="https://www.hackerrank.com/certificates/595a836fc4ec">
+<iframe src="https://www.hackerrank.com/certificates/595a836fc4ec" height="90px" width="40px"></iframe>
 </p>
 </article>
