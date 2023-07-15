@@ -43,7 +43,6 @@
 <p dir="auto"><a href="https://github.com/wervlad"><img src="https://camo.githubusercontent.com/da0ae1bd01201a76a80e87669e92b4f8ba7980ab4048f5d46db8c84d4f143bfd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e75782d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e7578" alt="Linux" data-canonical-src="https://img.shields.io/badge/linux-black?style=for-the-badge&amp;logo=Linux" style="max-width: 100%;"></a>
 <a href="https://github.com/wervlad"><img src="https://camo.githubusercontent.com/7db5976e41b787c96bf18219124761b6f6ab93e8cda559c4b06ce7099ad3513b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d57696e646f7773" alt="Windows" data-canonical-src="https://img.shields.io/badge/Windows-black?style=for-the-badge&amp;logo=Windows" style="max-width: 100%;"></a>
 <a href="https://github.com/wervlad"> 
-
-<iframe src="https://www.hackerrank.com/certificates/iframe/595a836fc4ec" height="90px" width="40px"></iframe>
+ 
 </p>
 </article>
