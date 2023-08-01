@@ -2,7 +2,9 @@
 <p align="center" dir="auto">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Lubomir.<br>
+        👨 Hi, my name is Lubomir<br>
+        ⭐⭐⭐⭐⭐ 100% Succes Score <br>
+        💰 More 1700 hours on UpWork <br>
         Currently learning to walk in ML/DL without falling on my bottom.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
